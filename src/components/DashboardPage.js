@@ -20,10 +20,6 @@ const styles = {
 };
 
 class DashboardPage extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
   state = {
     landing: true
   };
